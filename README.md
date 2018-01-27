@@ -1,3 +1,8 @@
+### ~~ Repositório com o projeto do minicurso de React ministrado por [Daniel Araújo](https://github.com/danielaraujorn) && [Danielly Costa](https://github.com/daniellycosta) ~~.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
