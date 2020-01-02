@@ -37,13 +37,13 @@ class Form extends Component {
 
 let store = createStore(todoApp);
 
-const mapStateToProps = (state, ownProps) => {
+const mapStateToProps = (state) => {
   return {
     todos: state.todos
   };
 };
 
-const mapDispatchToProps = (dispatch, ownProps) =>
+const mapDispatchToProps = (dispatch) =>
   bindActionCreators(actionCreators, dispatch);
 
 const App = props => {
